@@ -1,0 +1,36 @@
+h1{
+    background-color: #990000;
+    text-align: center;
+    color:#ffffff;
+    font-size: 50px;
+    font-family: sans-serif, "arial";
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+h2{
+    background-color: #990000;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+    font-variant: small-caps;
+}
+
+p{
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    
+}
+body{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive,sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+form{
+    text-align: left;
+}
